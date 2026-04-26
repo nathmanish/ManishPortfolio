@@ -20,7 +20,7 @@ export const siteConfig = {
       skills: ["Android", "Kotlin", "Jetpack Compose", "MVVM", "Coroutines", "DaggerHilt", "ApolloClient (GraphQL)", "ExoPlayer",],
     },
     {
-      name: "Cisco / Spectralin (AOSP Project)",
+      name: "Cisco / Spectralink (AOSP Project)",
       description:
         "Led the end-to-end development of 10+ system apps, starting from requirement discovery through delivery. Defined scope, broke down features into actionable tasks, and coordinated execution across the team. Collaborated closely with stakeholders from Cisco and Spectralink on timelines, priorities, and architecture. Ensured consistent delivery by aligning business needs with scalable technical solutions. Played a key role in driving cross-team communication and execution efficiency.",
       link: "https://www.spectralink.com/products/wi-fi/",
