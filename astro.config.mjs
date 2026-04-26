@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://nathmanish.github.io/',
-  base: '/ManishPortfolio',
+  base: '/nathmanishportfolio',
 });
